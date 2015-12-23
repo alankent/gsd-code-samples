@@ -1,0 +1,24 @@
+{
+    "name": "alankent/theme-frontend-header-image",
+    "description": "Change the default blank logo.",
+    "require": {
+        "php": "",
+        "magento/theme-frontend-blank": "*",
+        "magento/framework": "*",
+        "magento/magento-composer-installer": "*"
+    },
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "extra": {
+        "map": [
+            [
+                "*",
+                "AlanKent/header-image"
+            ]
+        ]
+    }
+}

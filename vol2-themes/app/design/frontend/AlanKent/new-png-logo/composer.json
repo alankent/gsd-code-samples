@@ -1,0 +1,24 @@
+{
+  "name": "alankent/theme-frontend-new-png-logo",
+  "description": "Change the default blank theme logo with a PNG file.",
+  "require": {
+    "php": "",
+    "magento/theme-frontend-blank": "*",
+    "magento/framework": "*",
+    "magento/magento-composer-installer": "*"
+  },
+  "type": "magento2-theme",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "AlanKent/new-png-logo"
+      ]
+    ]
+  }
+}
