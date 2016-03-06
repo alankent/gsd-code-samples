@@ -1,6 +1,6 @@
 {
-  "name": "alankent/theme-frontend-footer-image",
-  "description": "Add an image in the page footer.",
+  "name": "alankent/theme-frontend-eco-warrior",
+  "description": "Change colors using Less.",
   "require": {
     "magento/theme-frontend-blank": "2.0.*"
   },

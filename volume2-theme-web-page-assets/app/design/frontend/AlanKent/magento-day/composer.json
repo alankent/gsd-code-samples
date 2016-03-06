@@ -1,8 +1,8 @@
 {
-  "name": "alankent/theme-frontend-footer-image",
-  "description": "Add an image in the page footer.",
+  "name": "alankent/theme-frontend-magento-day",
+  "description": "Lets be Orange!",
   "require": {
-    "magento/theme-frontend-blank": "2.0.*"
+    "alankent/theme-frontend-new-logo": "*"
   },
   "type": "magento2-theme",
   "version": "1.0.0",

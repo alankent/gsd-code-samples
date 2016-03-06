@@ -1,8 +1,8 @@
 {
-  "name": "alankent/theme-frontend-footer-image",
-  "description": "Add an image in the page footer.",
+  "name": "alankent/theme-frontend-new-logo",
+  "description": "Change the default blank logo.",
   "require": {
-    "magento/theme-frontend-blank": "2.0.*"
+    "magento/theme-frontend-blank": "100.*"
   },
   "type": "magento2-theme",
   "version": "1.0.0",

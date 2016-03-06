@@ -1,0 +1,17 @@
+// Variable to hold new color, making it easier for theme to override.
+@subscribe-button-background: #19c379;
+
+// Import the Magento UI Library mixins
+@import 'source/lib/_lib.less';
+@import 'source/_theme.less';
+
+// Use more specific selector for the subscribe button.
+button.action.subscribe.primary {
+
+  // Use the existing mixin, overriding the background and hover colors
+  .lib-button-primary(
+    @_button-background: @subscribe-button-background,
+    @_button-background-hover: darken(@subscribe-button-background, 5%)
+  );
+
+}

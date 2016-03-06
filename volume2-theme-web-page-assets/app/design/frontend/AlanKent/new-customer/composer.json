@@ -1,6 +1,6 @@
 {
-  "name": "alankent/theme-frontend-footer-image",
-  "description": "Add an image in the page footer.",
+  "name": "alankent/theme-frontend-new-customer",
+  "description": "Chang the 'new customer' registration panel.",
   "require": {
     "magento/theme-frontend-blank": "2.0.*"
   },

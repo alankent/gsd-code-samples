@@ -2,7 +2,7 @@
   "name": "alankent/theme-frontend-new-logo",
   "description": "Change the default blank logo.",
   "require": {
-    "magento/theme-frontend-blank": "100.*"
+    "magento/theme-frontend-blank": "2.0.*"
   },
   "type": "magento2-theme",
   "version": "1.0.0",

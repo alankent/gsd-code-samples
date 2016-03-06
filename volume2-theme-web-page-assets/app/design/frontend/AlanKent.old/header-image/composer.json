@@ -2,7 +2,10 @@
     "name": "alankent/theme-frontend-header-image",
     "description": "Change the default blank logo.",
     "require": {
-        "magento/theme-frontend-blank": "2.0.*"
+        "php": "",
+        "magento/theme-frontend-blank": "*",
+        "magento/framework": "*",
+        "magento/magento-composer-installer": "*"
     },
     "type": "magento2-theme",
     "version": "1.0.0",
